@@ -3,7 +3,7 @@ provider "azurerm" {
            version = "=2.20.0"
            subscription_id = "d16e6b7a-13e6-4243-9e64-99702faa1627"  
             tenant_id       = "cb6d2469-9990-43b9-99a7-0d7c0e87cd2a"  
-            client_id       = "864a185f-533a-453c-a330-fb58048452fd"  
+            client_id       = "8937523a-e6c7-4b65-bf08-908704780985"  
             features {}  
 }
 resource "azurerm_resource_group" "RS1" {
